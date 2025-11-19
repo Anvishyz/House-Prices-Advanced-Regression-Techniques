@@ -1,5 +1,5 @@
 # 🏠 Kaggle Housing Price — Advanced Regression Techniques
-Kaggle 排名：TOP 2,601 / 5,000+ 参赛者
+Kaggle 排名：TOP 2,601 / 6,000+ 参赛者
 
 本仓库包含我在 Kaggle “House Prices: Advanced Regression Techniques” 比赛中的完整解决方案，包括数据预处理、复杂特征工程、多模型集成（Voting Regressor）与最终预测提交。
 
